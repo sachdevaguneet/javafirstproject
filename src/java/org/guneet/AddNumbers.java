@@ -3,7 +3,7 @@
  */
 public class AddNumbers {
     public static void main(String[] args){
-        int x = 3;
+        int x = 3;  // guneet
         int y = 7;
         System.out.println(x + " + " + y + " = " + (x+y));
     }
