@@ -6,7 +6,7 @@ package org.guneet.ObjectOriented;
 public class Manufacturer {
     public String name;   // For example. Airbus, Boeing
     public PlaneModel[] model; // For example 757,756,767\;
-    public int x;
+    public int y;
 
     public Manufacturer(PlaneModel[] model, String name) {
         this.model = model;
