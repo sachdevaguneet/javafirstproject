@@ -6,7 +6,5 @@ public class AddNumbers {
         int x = 3; // make a change
         int y = 7;
         System.out.println(x + " + " + y + " = " + (x+y));
-
-
     }
 }
