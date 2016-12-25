@@ -1,5 +1,6 @@
 /**
  * Created by gunee on 2/13/2016.
+ * This is a test of git.
  */
 public class Factorial {
     public static void main (String[]args){
